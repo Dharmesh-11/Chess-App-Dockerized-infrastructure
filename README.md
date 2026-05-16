@@ -126,7 +126,7 @@ docker compose version
 # 📥 Step 4 — Clone Repository
 
 ```bash
-git clone https://github.com/Rohit-1920/Chess.git
+git clone https://github.com/Dharmesh-11/Chess-App-Dockerized-infrastructure.git
 cd Chess
 ```
 
